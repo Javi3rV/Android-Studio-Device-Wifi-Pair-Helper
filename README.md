@@ -3,7 +3,7 @@ android studio wifi pair helper
 
 
 ## How to use
-Open android studio as administrator, then run the script as administrator too.
+run the script as administrator.
 Follow the steps.
 
 Both devices must be connected to the same network.
